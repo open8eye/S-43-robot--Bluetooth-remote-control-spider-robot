@@ -29,7 +29,8 @@
 
   --舵机站立时的角度姿态:舵机在接收站立命令时,为了保证三点支撑,会左侧或右侧两足平行,另一侧两足会呈现90°左右的夹角.这在RegisHsu的YouTube
 
-  视频里有演示
+  视频里有演示:https://gitee.com/lulendi/s-43-robot--bluetooth-remote-control-spider-robot/blob/master/video/Spider%20Robot%20v3.0%20demo%20(quadruped,%20quad%20robot).mp4
+
         图片地址:https://gitee.com/lulendi/s-43-robot--bluetooth-remote-control-spider-robot/blob/master/video/duojijiaowei.png
 
 
