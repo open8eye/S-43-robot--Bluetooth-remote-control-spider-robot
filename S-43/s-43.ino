@@ -12,9 +12,10 @@
   --舵机安装时脚的角度问题:看RegisHsu叔的原贴:https://www.instructables.com/DIY-Spider-RobotQuad-robot-Quadruped/ 这里说
   明下最外面的脚与地面垂直,中间的脚与地面平行,最里面的脚与身体垂直,在俯视图中会像个躺着的H.
   角度图片地址:
-     https://content.instructables.com/ORIG/FJZ/B6XK/IEN4QR3H/FJZB6XKIEN4QR3H.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=13030b9ca90d5fbc30241b03df752dda
+     https://gitee.com/lulendi/s-43-robot--bluetooth-remote-control-spider-robot/blob/master/images/%E8%84%9A%E8%A7%92%E5%BA%A6%E5%9B%BE.jpg
   --舵机站立时的角度姿态:舵机在接收站立命令时,为了保证三点支撑,会左侧或右侧两足平行,另一侧两足会呈现90°左右的夹角.这在RegisHsu的YouTube
   视频里有演示
+      图片地址:https://gitee.com/lulendi/s-43-robot--bluetooth-remote-control-spider-robot/blob/master/video/duojijiaowei.png
   --蓝牙:蓝牙买hc-06就好(蓝牙我选的这个10块钱那个 https://m.tb.cn/h.4H8xdpn?sm=6053eb) 手机app我是在小米应用里搜索的蓝牙调试器其
   实app大多都一样,hc-06接线,如果有扩展板就直接rxd->tx, txd->rx,gnd->gnd/-,vcc->3.3v/5v/+(主要看蓝牙模块电压要求,现在大多数3.2v
   -6v都可以)没扩展板,也可以直接看你的板子tx和rx是哪个数字引脚,像上面这么接就可以了.
